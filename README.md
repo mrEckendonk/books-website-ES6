@@ -17,7 +17,7 @@ This is  Pair to Pair project to help you find and remember the best books you r
 
 ## Live Demo link
 
-[Live Demo Link](https://book-list-es6.netlify.app/)
+[Live Demo Link](https://mrEckendonk.github.io/books-website-ES6/)
 
 
 To get a local copy up and running follow these simple example steps.
