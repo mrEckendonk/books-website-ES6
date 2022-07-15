@@ -34,5 +34,4 @@ export default class UI {
     bookList.appendChild(div);
   }
 
-
 }
