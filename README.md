@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/51e221c1-bba6-4a78-9c8d-4856001e10a7/deploy-status)](https://app.netlify.com/sites/books-list-es6/deploys)
+
 # bookList-website
 
 This is  Pair to Pair project to help you find and remember the best books you read.
